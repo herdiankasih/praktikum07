@@ -26,6 +26,7 @@ Latihan 1 Membuat program Tukar nilai dari 2 buah variable
 
 =>> Kode C++ program :
 
+```
 
 #include <iostream>
 
@@ -48,6 +49,7 @@ int main()
     return 0;
 }
 
+```
 
 =>> Hasil screenshoot latihan 1 :
 
@@ -61,6 +63,8 @@ int main()
 
 
 #include <iostream>
+
+```
 
 using namespace std;
 int kali (int m, int n)
@@ -88,7 +92,7 @@ int main()
     return 0;
 }
 
-
+```
 
 ![flowchart2](https://user-images.githubusercontent.com/43899109/49293631-3fcdb700-f4e3-11e8-8653-c7db13b8a5ca.jpg)
 
